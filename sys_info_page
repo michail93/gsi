@@ -1,6 +1,6 @@
 #!/bin/bash
 #информация о системе
-#выводиться как html страница
+#выводится как html страница
 
 TITLE="System Information Report $HOSTNAME"
 CURRENT_TIME=$(date +"%x %r %Z")
